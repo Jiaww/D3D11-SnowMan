@@ -1,0 +1,2 @@
+Contents文件夹为项目核心目录，包含如下内容：bin，src，doc
+Kits文件夹为DirectXTK内容文件夹

@@ -1,0 +1,16 @@
+﻿F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\PixelShader.hlsl(65,27-83): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+  
+  compilation object save succeeded; see F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\bin\Release\PixelShader.cso
+  SnowMan.vcxproj -> F:\NetEase_Projects\Project3_Snowman\D3D11-SnowMan\Contents\Src\SnowMan\../../bin/Release/SnowMan.exe
