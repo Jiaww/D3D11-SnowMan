@@ -2,4 +2,4 @@
 
 | **Final Result** |
 |---|
-|<img src="./snowman.gif" width="600" height="580">|
+|<img src="./snowman.gif" width="800" height="580">|
